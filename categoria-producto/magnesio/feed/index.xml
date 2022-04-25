@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Magnesio &#8211; LoupfiT</title>
+	<atom:link href="/categoria-producto/magnesio/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>La calidad que buscabas.</description>
+	<lastBuildDate>Sun, 24 Apr 2022 19:58:32 +0000</lastBuildDate>
+	<language>es</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<item>
+		<title>Caja 10 bloques</title>
+		<link>/producto/caja-10-bloques/</link>
+					<comments>/producto/caja-10-bloques/#respond</comments>
+		
+		<dc:creator><![CDATA[LF_Alpha]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2022 19:57:19 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=36</guid>
+
+					<description><![CDATA[Lo que más te gusta pero al por mayor.]]></description>
+										<content:encoded><![CDATA[<p><span class="ILfuVd"><span class="hgKElc">El uso de carbonato de <b>magnesio es</b> una opción cada vez más popular en los gimnasios a la hora de entre</span></span><span class="ILfuVd"><span class="hgKElc">nar, y</span></span><span class="ILfuVd"><span class="hgKElc">a q</span></span><span class="ILfuVd"><span class="hgKElc">ue absorbe el sudor de las <b>manos</b> asegurándonos así un mejor agarre sin miedo a que la barra resbale en nuestras <b>manos</b>. Nos proporciona libertad de movimiento y un agarre seguro.</span></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/caja-10-bloques/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bloque de magnesio</title>
+		<link>/producto/bloque-de-magnesio/</link>
+					<comments>/producto/bloque-de-magnesio/#respond</comments>
+		
+		<dc:creator><![CDATA[LF_Alpha]]></dc:creator>
+		<pubDate>Sun, 24 Apr 2022 19:02:31 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=product&#038;p=25</guid>
+
+					<description><![CDATA[Lo que te hace falta para ser el mejor]]></description>
+										<content:encoded><![CDATA[<p>&nbsp;</p>
+<p><img class="wp-image-34 aligncenter" src="/wp-content/uploads/2022/04/WhatsApp-Image-2021-12-04-at-17.25.11.jpeg" alt="" width="435" height="211" /></p>
+<p><span class="ILfuVd"><span class="hgKElc">El uso de carbonato de <b>magnesio es</b> una opción cada vez más popular en los gimnasios a la hora de entre</span></span><span class="ILfuVd"><span class="hgKElc">nar, y</span></span><span class="ILfuVd"><span class="hgKElc">a q</span></span><span class="ILfuVd"><span class="hgKElc">ue absorbe el sudor de las <b>manos</b> asegurándonos así un mejor agarre sin miedo a que la barra resbale en nuestras <b>manos</b>. Nos proporciona libertad de movimiento y un agarre seguro.</span></span></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/producto/bloque-de-magnesio/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
